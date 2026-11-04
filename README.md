@@ -7,9 +7,9 @@
 I'm passionate about finding raw data and 
 transform it into actionable meaningful insights
 
-- 🌱 Currently learning: [PowerBI, SQL, AI tools]
+- 🌱 Currently learning: PowerBI, SQL, AI tools
 - 💻 Interested in: Data analytics / Business Analytics
-- 🔭 Working on: [Financial Risk Analysis]
+- 🔭 Working on: Financial Risk Analysis
 - 🎯 Goal: Contributing to impactful projects
 - 📫 Contact: srushtibadukaleworks@gmail.com
 
@@ -28,5 +28,5 @@ transform it into actionable meaningful insights
 ## 🤝 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/srushti-badukale-15941720a
-- Portfolio: [Your Portfolio]
+- Portfolio: [Portfolio Link]
 - Email: srushtibadukaleworks@gmail.com
