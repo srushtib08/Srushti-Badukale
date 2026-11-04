@@ -29,4 +29,4 @@ transform it into actionable meaningful insights
 
 - LinkedIn: www.linkedin.com/in/srushti-badukale-15941720a
 - Portfolio: [Your Portfolio]
-- Email: srushtibadukale@gmail.com
+- Email: srushtibadukaleworks@gmail.com
